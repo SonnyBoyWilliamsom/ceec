@@ -11,7 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+            include '../ceec/test_data/cuestionarie.php';
+           
+        
         ?>
     </body>
 </html>
