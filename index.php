@@ -34,7 +34,7 @@
             <?php
         }
         ?>
-
+        <a href="http://cursoestadistica.es/">HOME</a>
 
 
     </body>
